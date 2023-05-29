@@ -1,0 +1,46 @@
+<html>
+<meta charset="UTF-8">
+<link rel="stylesheet" href="css/contact.css">
+<link rel="stylesheet" href="css/all.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script src="script.js"></script>
+<script src="https://kit.fontawesome.com/0dfdec2c7e.js"></script>
+<head>
+  <title>San Fierro Role Play</title>
+</head>
+
+<div class="logo">SF:RP</div>
+<img class="backguy" style="bottom: 0vw; left: 67vw; top: unset;" src="img/pic2.png">
+
+<ul class="menu">
+    <li class="menuitem" onclick="openLink('batdau')">Bắt Đầu!</li>
+    <li class="menuitem" onclick="openLink('luatle')">Luật Lệ</li>
+    <li class="menuitem" onclick="openLink('lienhe')" style="border-color: #3ca918">Liên Hệ</li>
+    <li class="menuitem" onclick="openLink('doitac')">Đối Tác</li>
+    <li class="menuitem" onclick="openLink('thongtin')">Thông Tin</li>
+</ul>
+
+<div class="maintext">
+
+    <form method="post" action="php/contact.php">
+
+        <p>Tên*</p>
+        <p><input type="text" name="username" required></p>
+
+        <p>Tiêu Đề</p>
+        <p><input type="text" name="subject"></p>
+
+        <p>Email*</p>
+        <p><input type="email" name="email" required></p>
+
+        <p>Nội Dung*</p>
+        <p><textarea name="body" required></textarea ></p >
+    
+        <p >
+        <input type="submit" name="submit" value="GỬI" >
+        </p >
+    
+    </form >
+    
+</div>
+</html>
