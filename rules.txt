@@ -1,0 +1,155 @@
+1. MG
+Nội dung:
+Là khi bạn sử dụng thông tin ngoài nhân vật (Out of character: OOC) để áp dụng vào nhân vật trong game (In charactier: IC). Trong game khi bạn giao tiếp, tương tác với người khác không được phép sử dụng những thông tin không gắn liền với nhân vật của bạn.
+Để sử dụng, trao đổi thông tin ngoài nhân vật (OOC), hãy dùng lệnh /b. Nhưng hãy hạn chế trao đổi thông tin OOC khi đang tương tác với người khác (IC).
+
+2. PG
+Nội dung:
+- Thực hiện những việc mà con người không thể thực hiện.
+- Tạo ra những thứ không thể xảy ra để bạn có thể hưởng lợi từ đó.
+
+3. DM
+Nội dung:
+Tấn công người chơi không thông qua roleplay
++ không có tình huống tương tác trước đó , tấn công người khác không có lý do và mục đích nhất định
++ không sử dụng lệnh /md trước khi tấn công người khác
+lưu ý 1 : bạn cần phải làm cách nào đó để cho người khác biết rằng mình sắp bị tấn công (( cách cụ thế nhất /md sao cho người ta thấy ấy )) , khi các bạn bị người khác tấn công trước người đó đã có /md thì bạn không cần phải /md lại
+lưu ý 2 : khi người khác trốn trong chỗ tối mà bạn ko thể nhìn thấy được họ thì họ ko vi phạm luật này , có nghĩa là yêu cầu khi kiện DM thì bạn phải nhìn thấy đc họ mới có thể kiện luật này. Chứ không phải nhìn damge trên chat log là biết người nào bắn được, phải nhìn thấy nhân vật người chơi mới kiện đc DM
+
+4. Khu an toàn (safezone)
+Nội dung:
+Tấn công người khác ở những khu vực mà ở ngoài đời có an ninh nghiêm ngặt. Những nơi trong game được bảo vệ bởi luật này bao gồm:
+- Bệnh viện.
+- Đồn cảnh sát, quân đội
+- Khu chợ mall. (bên Los Santos, cạnh bệnh viện)
+- Bến cảng.
+- pizza/truck thuyền/truck xe
+- Tòa thị chính. (city hall)
+- Taxi Company
+- Trạm xăng [ trừ ở biên giới ]
+- Tòa soạn báo
+- Cửa hàng xe
+- Arena
+- khu tổ chức event mặc định là safe ( trừ trường hợp adm thông báo không safe )
+- Ngân hàng
+- [[ Khu fixcrash ]]
+- Tai xiu
+- Garage VIP
+- Khu vực bi-a
+- Khu vực đấu giá tài sản
+- Casino (( House 330 ))
+- Nông Trại
+- Nhà máy láp ráp vũ khí
+- Khai thác dầu gần Pizza Boy SF
+
+5.Revenge Killing (RK)
+Nội dung:
+Khi nhân vật của bạn chết (IC), nhân vật sẽ mất trí nhớ về mọi thứ đã xảy ra trong 30 phút trước thời điểm chết. Vì vậy nếu sau khi chết bạn còn nhớ người giết bạn là ai và đi trả thù thì sẽ vi phạm luật này. Kể cả khi bạn tương tác rằng có người nhắc cho bạn ai đã giết bạn thì đó là điều không thể.
+Chốt: sau khi chết không được phép quay lại trả thù, hãy quên đi và tiếp tục sống bình thường.
+Quy cách xử : khi chết trong vòng 30p mà quay lại khu vực cũ ngay chỗ mình chết trước đó, tấn công ai đó = RK không cần biết người khác tấn công mình hay mình tấn công người khác trước , cứ quay lại khu vực cũ mà móc súng ra fire = RK
+
+6. Lừa đảo.
+Nội dung:
+Lưu ý: BQT không xử lý các vụ buôn bán OOC và cũng khuyến cáo các bạn không nên giao dịch OOC. Những trường hợp giao dịch OOC bị phát hiện sẽ được BQT khóa tài khoản.
+
+7. Clone Account. ( C.A )
+Nội dung:
+Tạo tài khoản mới để sử dụng hack/cheat, hay quấy rối cộng đồng sẽ vi phạm luật này.
+Mục đích gian lận cho cá nhân.
+
+8. NAME.
+Tên nhân vật mạo danh, ngôn ngữ gây thù ghét, tên liên quan đến BQT, tên liên quan đến phần mềm gian lận - các tên này sẽ bị BANNED
+
+Các luật cơ bản (Cấm):
+
+Bunny hopping (BH): nhảy liên tục, hoặc vừa chạy một đoạn lại nhảy một lần khi phía trước không có vật cản; mục đích là để di chuyển nhanh hơn hoặc tránh đạn.
+
+Chicken-running (CR2): chạy vòng quanh, zic zac để tránh đạn, hoặc để người khác đỡ đạn hộ.
+
+Car ramming (CR): dùng phương tiện đâm người khác mà không có lí do, đâm lung tung.
+
+Car parking (CP): đậu xe lên người khác kéo máu cho tới chết.
+
+Blade killing (BK): sử dụng cánh quạt máy bay chém người, mục đích mua vui hoặc đi
+cần có mục đích - tương tự DM.
+
+Log/afk to avoid ( LTA/ATA): thoát game/afk để trốn tránh tình huống
+
+Cop baiting (CB): dùng phương tiện chặn đầu xe cảnh sát, troll cảnh sát hoặc đại loại
+những hành động lấn át hay theo dõi cảnh sát, chửi cảnh sát nhằm mục đích mua vui và
+được cảnh sát đuổi. Ngoài ra còn có trường hợp /b chửi cops rồi chạy.
+
+Rush cover (RC): tham gia vào cuộc gunfight của người khác trong khi không biết tình
+huống đó xảy ra như nào (lí do). Nói chung là tham gia vào cuộc đọ súng của người khác
+mà không hề liên quan tới mình , những người mình không biết đó là ai.
+
+NonRP flying ( NF ): lái máy bay va lung tung, bay lung tung ở nơi đông người, khu công cộng, bay quá thấp xà xuống mặt đường
+đậu máy bay giữa đường...
+
+NonRP selling/buying ( NS/NB) : mua/bán những hàng cấm tại nơi công cộng.
+
+Ninja-jacking ( NJ ): lạm dụng lỗi của game đi lên từ ghế G và sang ghế F để làm chết người đó
+
+Đồng phạm hacking: Là khi bạn đi chung với người sử dụng cheat/cleo hack, vi phạm điều
+thứ 6 mà không báo cáo cho BQT biết, hiểu đơn giản là bạn hỗ trợ cheater.
+
+Spawn Killing (SK):Tiêu diệt người chơi vừa đăng nhập game, mới ra door, bệnh viện,...
+
+Healing Gun Fight (HGF): Trong khi đấu súng , đối tượng bắn nhau xong tìm cách lẫn trốn vào những nơi hồi máu , khi đã đầy máu ra tiếp tục chiến tiếp.
++ 10p sẽ hết hiệu lực vi phạm
+
+War Bug Armor (WBA): Lạm dụng JOB bán giáp, khi đang war bán giáp cho nhau để được thêm giáp.
+
+Advoid Roleplay (AR): Trốn tránh Roleplay.
+
+NonRP Name (NN): Tên không giống đời thật.
+
+Rush Tazer (RT): là luật tazer dành cho những người thi hành pháp luật.
+
+NonRP Behaviour (NB): Lạm dụng nhân vật ingame để cư xử những hành động phi thực tế.
+
+NonRP Driving (ND): Sử dụng phương tiện chạy vào chỗ đông người , gây náo loạn.
+
+Atip: AFK giữa đường, hoặc nơi đông người.
+
+Animation Exploit (AE): Dùng lệnh hành động để trốn tránh, né đạn, bơm máu liên tục như [/fallover] , hành động phi thường nhờ các lệnh hành động để lạm dụng nó thoát chết với mưu đồ cá nhân không có thực trong đời sống.
+
+Character Kill (CK): Khai tử nhân vật nếu muốn người chơi khai tử nhân vật một cách Roleplay. (Tự tử hay bị ám sát). Điều này chỉ có thể thực hiện khi người chơi chấp nhận khai tử và báo cáo lên Admin.
+
+Monney Farm (MF): Lặp đi lặp lại nhiều tài khoản chuyển tiền cho nhau với mục đích cày tiền,
+
+Badgroup :
++ Vi phạm rất nhiều luật OOC trong 1 ngày > take
++ Tham gia faction không đủ thời hạn > out
++ Lạm dụng lệnh faction
++ Bôi nhọa faction bạn đang tham gia
++ Nghỉ việc không làm đơn xin phép
++ nhảy faction ( vừa rời faction này chưa đủ 14 ngày thì sang faction khác )
+
+Bẫy kiện : có nghĩa là bạn biết người đó không vi phạm luật nhưng vẫn cố bẫy kiện họ
+
++ ví dụ cụ thể : tôi và bạn đang có tình huống war nhau sau đó bạn lên xe đi nơi khác tầm 2p bật bandicam quay lại thì tất nhiên sẽ bị tôi bắn 》 bạn lên forum kiện tôi DM ( tấn công không có lý do ) - khi tôi kháng kiện lại thành công thì bạn sẽ bị phạt tù
+
+Random Punching ( RP2) :đấm liên tục vào người chơi khác không có lí do
+
+[ Dumper , Monster , Dozed ] In city : 3 loại xe Dumper, Monster, Dozed sẽ k được phép chạy vào những khu an toàn , những khu có đông người qua lại
+
+Car Surfing ( CS ): đứng lên nóc xe để đi ké một cách Nonrp
+
+Nonrp Boombox: đặt Boombox giữa đường đi hoặc những vị trí trên không
+
+* Những loại mod cấm tại SFRP :
+
+- Xóa lá cây
+- Mod có những handling ped chạy nhanh hơn bth
+- Mod xe 2 chỗ thành xe 4 chỗ
+
+* Quy định khiếu nại :
+
+Phải lập đơn ngay trong ngày đó qua 24h của ngày sẽ không đc giải quyết
+
+* Quy định bằng chứng:
+- Bằng chứng của người kiện có thời hạn trong ngày
+- Bằng chứng của người bị kiện tự họ quay có bằng chứng dưới 72 giờ
+
+Lố thời hạn có thể không xét xử
